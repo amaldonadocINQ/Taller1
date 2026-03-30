@@ -10,3 +10,6 @@ for i in range(cantidad):
     else:
         print(f"El número {busqueda} no se encuentra en la lista.")
     break
+
+# Complejidad Big O: O(n) 
+# Justificación: Se recorre la lista una vez para buscar el número.
